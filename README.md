@@ -13,7 +13,10 @@
 <br>
 
 ## Simple Student Assessment Management System
-<img src=" ![slide_11](https://user-images.githubusercontent.com/81368764/209142596-e6c37499-acb1-4e00-8ec0-b0002cddbae1.jpg)" alt="Logo" width="300">
+<div align="center">
+ <img src=" slide_11.jpg" alt="Logo" width="700">
+</div>
 
+Simple Student Assessment Management System is a system that would help manage the assessments of the students into a convenient and organize manner. This system would help the students of Ateneo de Davao University manage the recording of grades for the teachers, provides the students the ability to view their respective grades. 
 
 <br>
